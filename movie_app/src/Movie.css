@@ -1,0 +1,11 @@
+.lv-boots-img {
+    width: 15%;
+    height: 150px;
+    margin: auto;
+    border: 1px solid silver;
+}
+.poster-title{
+    font-weight: 600;
+    font-size: 15pt;
+    margin: 10px 0px 10px 0px;
+}
